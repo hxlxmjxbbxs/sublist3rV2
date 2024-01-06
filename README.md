@@ -103,14 +103,6 @@ Enumerate subdomains for a specific domain:
 python sublist3r.py -d example.com
 ```
 
-### 📚 Using Sublist3r in Your Python Scripts
-You can also use Sublist3r as a module in your own Python scripts. Here's a simple example:
-
-```python
-import sublist3r 
-subdomains = sublist3r.main(domain, no_threads, savefile, ports, silent, verbose, enable_bruteforce, engines)
-```
-
 ### 📄 License
 
 Sublist3r is distributed under the GNU GPL license, which allows for widespread use and modification. For more details, please refer to the [LICENSE](https://github.com/hxlxmjxbbxs/SUBLIST3R_V2.0/blob/main/LICENSE).
