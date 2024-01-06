@@ -113,10 +113,7 @@ Sublist3r is distributed under the GNU GPL license, which allows for widespread 
 * [TheRook](https://github.com/TheRook) - The bruteforce module was based on his script **subbrute**. 
 * [Bitquark](https://github.com/bitquark) - The Subbrute's wordlist was based on his research **dnspop**. 
 * [zzzteph](https://github.com/zzzteph) - API of resource discovery was based on his script **ShrewdEye**. 
-  
-## Thanks
-
-* Special Thanks to [Ibrahim Mosaad](https://twitter.com/ibrahim_mosaad) for his great contributions that helped in improving the tool.
+* [Ibrahim Mosaad](https://twitter.com/ibrahim_mosaad) for his great contributions that helped in improving the tool.
 
 ### 📢 Version
 
