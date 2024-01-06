@@ -16,7 +16,9 @@ Sublist3r v2.0 is a sophisticated tool specializing in automated subdomain enume
 - Advanced port scanning capabilities, complementing subdomain enumeration with network service insights.
 
 ### Version (1.0) VS Version (2.0)
-<strong>Sublist3r V1 vs Sublist3r V2</strong>: https://youtu.be/i53WTvWVcRA
+
+<strong>PoC</strong>: https://youtu.be/i53WTvWVcRA
+
 ### 📸 Code Comparison Snapshot
 Above: A visual comparison showcasing the differences between the old implementation and my updated version.
 
