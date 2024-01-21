@@ -82,9 +82,16 @@ C:\python27\python.exe -m pip install win_unicode_console colorama
 ```
 
 ### Add VirusTotal API Token
-- Linux:
+
+### Windows:
+```batch
+setx VTAPIKEY "Your_Virus_Total_API_Token_Here"
+```
+
+### Linux:
 ```bash
-echo "export VTAPIKEY="Your_Virus_Total_API_Token_Here" >> ~/.bashrc
+echo 'export VTAPIKEY="Your_Virus_Total_API_Token_Here"' >> ~/.bashrc
+source ~/.bashrc
 ```
 
 ### ⚙️ Usage Instructions
