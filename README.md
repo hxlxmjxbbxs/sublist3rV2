@@ -81,16 +81,16 @@ For coloring support in the Windows terminal, install win_unicode_console and co
 C:\python27\python.exe -m pip install win_unicode_console colorama
 ```
 
-### Add VirusTotal API Token
+### Set VirusTotal API Key Environment Variable
 
 ### Windows:
 ```batch
-setx VTAPIKEY "Your_Virus_Total_API_Token_Here"
+setx VTAPIKEY "Your_VirusTotal_API_Key_Here"
 ```
 
 ### Linux:
 ```bash
-echo 'export VTAPIKEY="Your_Virus_Total_API_Token_Here"' >> ~/.bashrc
+echo 'export VTAPIKEY="Your_VirusTotal_API_Key_Here"' >> ~/.bashrc
 source ~/.bashrc
 ```
 
