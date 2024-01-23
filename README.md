@@ -81,6 +81,19 @@ For coloring support in the Windows terminal, install win_unicode_console and co
 C:\python27\python.exe -m pip install win_unicode_console colorama
 ```
 
+### Set VirusTotal API Key Environment Variable
+
+### Windows:
+```batch
+setx VTAPIKEY "Your_VirusTotal_API_Key_Here"
+```
+
+### Linux:
+```bash
+echo 'export VTAPIKEY="Your_VirusTotal_API_Key_Here"' >> ~/.bashrc
+source ~/.bashrc
+```
+
 ### ⚙️ Usage Instructions
 ```bash
 Usage: python sublist3r.py [Options]
